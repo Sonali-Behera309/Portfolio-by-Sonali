@@ -17,7 +17,7 @@ I built this site using **HTML** and **CSS** to showcase my skills, projects, an
 
 ## 📂 Project Structure
 
-.
+
 ├── index.html         # Main HTML page
 
 ├── about.html         # About Me page (optional)
@@ -35,7 +35,11 @@ I built this site using **HTML** and **CSS** to showcase my skills, projects, an
 
 🙋‍♂️ About Me
 Sonali Behera
+
 🎓 CSE Undergrad | 💻 Web Development Enthusiast
+
 📍 Odisha, India
+
 📧 Email: sonalibehera5959@gmail.com
+
 🔗 LinkedIn: linkedin.com/in/SonaliBehera30
