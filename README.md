@@ -27,13 +27,18 @@ I built this site using **HTML** and **CSS** to showcase my skills, projects, an
 ├── contact.html       # Contact page (optional)
 
 ├── css/
+
 │   └── style.css      # Main stylesheet
 
 
 └── images/            # Folder for images and assets
 
 
+
+
+
 🙋‍♂️ About Me
+
 Sonali Behera
 
 🎓 CSE Undergrad | 💻 Web Development Enthusiast
